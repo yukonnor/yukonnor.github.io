@@ -1,8 +1,10 @@
 body {
+    font-family: Helvetica, Sans;
     background-color: lightblue;
 }
 
 h1 {
+    font-family: Helvetica, Sans;
     color: navy;
     margin-left: 20px;
 }
