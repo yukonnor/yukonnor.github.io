@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    background:url("image.jpg");
+    background: /images/Large_confetti.png;
     background-size: cover;       /* For flexibility */
 }
 
