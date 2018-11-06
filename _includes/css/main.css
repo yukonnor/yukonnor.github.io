@@ -6,7 +6,8 @@
 
 body {
     overflow-x: hidden;
-    background: Large_confetti_zoomed.pdf;
+    background-image: url("confetti.png");
+    background-color: #cccccc;
     background-size: cover;       /* For flexibility */
 }
 
