@@ -62,11 +62,11 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #{{ site.color.text-primary }};
 }
 
 hr.star-light:after {
-    color: #fff;
+    color: #{{ site.color.text-primary }};
     background-color: #{{ site.color.primary }};
 }
 
@@ -76,7 +76,7 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
-    background-color: #fff;
+    background-color: #{{ site.color.text-primary }};
 }
 
 .img-centered {
@@ -85,7 +85,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #{{ site.color.text-primary }};
     background: #{{ site.color.primary }};
 }
 
@@ -182,7 +182,7 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
+    color: #{{ site.color.text-primary }};
     background: #{{ site.color.primary }};
 }
 
@@ -255,9 +255,9 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #{{ site.color.text-primary }};
     font-size: 20px;
-    color: #fff;
+    color: #{{ site.color.text-primary }};
     background: 0 0;
     transition: all .3s ease-in-out;
 }
