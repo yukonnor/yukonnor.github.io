@@ -116,6 +116,11 @@ header .container .name {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 200;
+    position: absolute;
+    top: 590px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
 }
 
 header .intro-text .skills {
@@ -126,7 +131,7 @@ header .intro-text .skills {
 @media(min-width:768px) {
     header .container {
         padding-top: 150px;
-        padding-bottom: 500px;
+        padding-bottom: 550px;
     }
 
     header .container .name {
