@@ -111,7 +111,7 @@ header img {
 z-index: 20;
 }
 
-header .intro-text .name {
+header .container .name {
     display: block;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
@@ -129,7 +129,7 @@ header .intro-text .skills {
         padding-bottom: 500px;
     }
 
-    header .intro-text .name {
+    header .container .name {
         font-size: 4.75em;
     }
 
