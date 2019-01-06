@@ -97,16 +97,16 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
-    position:absolute;
-    top: 200px;
-    left: 200px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%)
 }
 
-layer1 {
+#layer1 {
    z-index: 10;
 }
 
-layer2 {
+#layer2 {
 z-index: 20;
 }
 
