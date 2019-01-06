@@ -117,10 +117,11 @@ header .container .name {
     font-size: 2em;
     font-weight: 200;
     position: absolute;
-    top: 590px;
+    top: 500px;
     left: 50%;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
+    width: 300px;
 }
 
 header .intro-text .skills {
@@ -136,6 +137,8 @@ header .intro-text .skills {
 
     header .container .name {
         font-size: 4.75em;
+        top: 590px;
+        width: 500px;
     }
 
     header .intro-text .skills {
