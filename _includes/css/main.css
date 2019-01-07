@@ -92,7 +92,9 @@ header {
 header .container {
     padding-top: 100px;
     padding-bottom: 450px;
+    transform-origin: center center;
 }
+
 
 header img {
     display: block;
