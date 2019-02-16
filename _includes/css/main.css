@@ -89,9 +89,10 @@ header {
     background: #{{ site.color.primary }};
 }
 
+//mobile
 header .container {
-    padding-top: 100px;
-    padding-bottom: 450px;
+    padding-top: 150px;
+    padding-bottom: 90px;
     transform-origin: center center;
 }
 
@@ -131,10 +132,11 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+//web
 @media(min-width:768px) {
     header .container {
-        padding-top: 150px;
-        padding-bottom: 550px;
+        padding-top: 210px;
+        padding-bottom: 130px;
     }
 
     header .container .name {
