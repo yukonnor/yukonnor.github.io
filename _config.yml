@@ -25,12 +25,12 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: FFFFFF #white #orignal teal: 18bc9c 
+  primary: FFFFFF # white #orignal teal: 18bc9c 
   primary-rgb: "255,255,255" 
-  secondary: 2c3e50 #dark grey
+  secondary: 000000 # Nav bar / Content Section Bacgound. Previously 2c3e50 (dark slate grey)
   secondary-dark: 233140 #A2122F
   text-primary: 000000 #black
-  text-secondary: 2c3e50 #dark grey
+  text-secondary: 000000 #dark grey
 
 # Footer settings
 footer:
