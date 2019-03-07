@@ -7,7 +7,7 @@
 body {
     overflow-x: hidden;
     background-image: url("confetti.png");
-    background-color: #cccccc;
+    background-color: #0dd2e8; 
     background-position: center; 
     background-repeat: repeat-y;
 }
