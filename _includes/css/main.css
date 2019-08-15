@@ -197,11 +197,17 @@ header .intro-text .skills {
 
 section {
     padding: 100px 0;
+    background-color: #000000;
 }
 
 section h2 {
     margin: 0;
     font-size: 3em;
+}
+
+section.spacing {
+    color: #{{ site.color.text-primary }};
+    background: #{{ site.color.primary }};
 }
 
 section.success {
