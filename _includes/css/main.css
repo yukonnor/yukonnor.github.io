@@ -352,6 +352,14 @@ section.success {
     color: #{{ site.color.primary }};
 }
 
+.text-sounds {
+    color: #{{ site.color.sounds }};
+}
+
+.text-visuals {
+    color: #{{ site.color.visuals }};
+}
+
 form .row:first-child .floating-label-form-group {
     border-top: 1px solid #eee;
 }
