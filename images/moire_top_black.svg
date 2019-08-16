@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="307px" height="308px" viewBox="0 0 307 308" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Black Moire Full</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="154" cy="154" r="154"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-142.000000, -147.000000)">
+            <g id="Black-Moire-Full" transform="translate(141.000000, 147.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Oval"></g>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="5.6 -180.6 0.7 -147 5.6 -113.4 0.7 -72.8 5.6 -29.4 0.7 26.6 5.6 86.8"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="12.6 -180.6 7.7 -147 12.6 -113.4 7.7 -72.8 12.6 -29.4 7.7 26.6 12.6 86.8"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="19.6 -180.6 14.7 -147 19.6 -113.4 14.7 -72.8 19.6 -29.4 14.7 26.6 19.6 86.8"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="26.6 -180.6 21.7 -147 26.6 -113.4 21.7 -72.8 26.6 -29.4 21.7 26.6 26.6 86.8"></polyline>
+                <g id="Group" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8">
+                    <g transform="translate(28.100000, -180.600000)" id="Line">
+                        <polyline points="4.9 5.68434189e-14 -1.81188398e-13 33.6 4.9 67.2 -1.81188398e-13 107.8 4.9 151.2 -1.81188398e-13 207.2 4.9 267.4"></polyline>
+                        <polyline points="11.9 5.68434189e-14 7 33.6 11.9 67.2 7 107.8 11.9 151.2 7 207.2 11.9 267.4"></polyline>
+                        <polyline points="18.9 5.68434189e-14 14 33.6 18.9 67.2 14 107.8 18.9 151.2 14 207.2 18.9 267.4"></polyline>
+                        <polyline points="25.9 5.68434189e-14 21 33.6 25.9 67.2 21 107.8 25.9 151.2 21 207.2 25.9 267.4"></polyline>
+                        <polyline points="32.9 5.68434189e-14 28 33.6 32.9 67.2 28 107.8 32.9 151.2 28 207.2 32.9 267.4"></polyline>
+                        <polyline points="39.9 5.68434189e-14 35 33.6 39.9 67.2 35 107.8 39.9 151.2 35 207.2 39.9 267.4"></polyline>
+                        <polyline points="4.9 267.4 -1.81188398e-13 301 4.9 334.6 -1.81188398e-13 375.2 4.9 418.6 -1.81188398e-13 474.6 4.9 534.8"></polyline>
+                        <polyline points="11.9 267.4 7 301 11.9 334.6 7 375.2 11.9 418.6 7 474.6 11.9 534.8"></polyline>
+                        <polyline points="18.9 267.4 14 301 18.9 334.6 14 375.2 18.9 418.6 14 474.6 18.9 534.8"></polyline>
+                        <polyline points="25.9 267.4 21 301 25.9 334.6 21 375.2 25.9 418.6 21 474.6 25.9 534.8"></polyline>
+                        <polyline points="32.9 267.4 28 301 32.9 334.6 28 375.2 32.9 418.6 28 474.6 32.9 534.8"></polyline>
+                        <polyline points="39.9 267.4 35 301 39.9 334.6 35 375.2 39.9 418.6 35 474.6 39.9 534.8"></polyline>
+                    </g>
+                </g>
+                <g id="Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8">
+                    <g transform="translate(69.800000, -180.600000)" id="Line">
+                        <polyline points="4.9 5.68434189e-14 -1.81188398e-13 33.6 4.9 67.2 -1.81188398e-13 107.8 4.9 151.2 -1.81188398e-13 207.2 4.9 267.4"></polyline>
+                        <polyline points="11.9 5.68434189e-14 7 33.6 11.9 67.2 7 107.8 11.9 151.2 7 207.2 11.9 267.4"></polyline>
+                        <polyline points="18.9 5.68434189e-14 14 33.6 18.9 67.2 14 107.8 18.9 151.2 14 207.2 18.9 267.4"></polyline>
+                        <polyline points="25.9 5.68434189e-14 21 33.6 25.9 67.2 21 107.8 25.9 151.2 21 207.2 25.9 267.4"></polyline>
+                        <polyline points="32.9 5.68434189e-14 28 33.6 32.9 67.2 28 107.8 32.9 151.2 28 207.2 32.9 267.4"></polyline>
+                        <polyline points="4.9 267.4 -1.81188398e-13 301 4.9 334.6 -1.81188398e-13 375.2 4.9 418.6 -1.81188398e-13 474.6 4.9 534.8"></polyline>
+                        <polyline points="11.9 267.4 7 301 11.9 334.6 7 375.2 11.9 418.6 7 474.6 11.9 534.8"></polyline>
+                        <polyline points="18.9 267.4 14 301 18.9 334.6 14 375.2 18.9 418.6 14 474.6 18.9 534.8"></polyline>
+                        <polyline points="25.9 267.4 21 301 25.9 334.6 21 375.2 25.9 418.6 21 474.6 25.9 534.8"></polyline>
+                        <polyline points="32.9 267.4 28 301 32.9 334.6 28 375.2 32.9 418.6 28 474.6 32.9 534.8"></polyline>
+                    </g>
+                </g>
+                <g id="Group-3" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8">
+                    <g transform="translate(104.800000, -180.600000)" id="Line">
+                        <polyline points="4.9 5.68434189e-14 -1.81188398e-13 33.6 4.9 67.2 -1.81188398e-13 107.8 4.9 151.2 -1.81188398e-13 207.2 4.9 267.4"></polyline>
+                        <polyline points="11.9 5.68434189e-14 7 33.6 11.9 67.2 7 107.8 11.9 151.2 7 207.2 11.9 267.4"></polyline>
+                        <polyline points="18.9 5.68434189e-14 14 33.6 18.9 67.2 14 107.8 18.9 151.2 14 207.2 18.9 267.4"></polyline>
+                        <polyline points="25.9 5.68434189e-14 21 33.6 25.9 67.2 21 107.8 25.9 151.2 21 207.2 25.9 267.4"></polyline>
+                        <polyline points="32.9 5.68434189e-14 28 33.6 32.9 67.2 28 107.8 32.9 151.2 28 207.2 32.9 267.4"></polyline>
+                        <polyline points="4.9 267.4 -1.81188398e-13 301 4.9 334.6 -1.81188398e-13 375.2 4.9 418.6 -1.81188398e-13 474.6 4.9 534.8"></polyline>
+                        <polyline points="11.9 267.4 7 301 11.9 334.6 7 375.2 11.9 418.6 7 474.6 11.9 534.8"></polyline>
+                        <polyline points="18.9 267.4 14 301 18.9 334.6 14 375.2 18.9 418.6 14 474.6 18.9 534.8"></polyline>
+                        <polyline points="25.9 267.4 21 301 25.9 334.6 21 375.2 25.9 418.6 21 474.6 25.9 534.8"></polyline>
+                        <polyline points="32.9 267.4 28 301 32.9 334.6 28 375.2 32.9 418.6 28 474.6 32.9 534.8"></polyline>
+                    </g>
+                </g>
+                <g id="Group-4" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8">
+                    <g transform="translate(139.800000, -180.600000)" id="Line">
+                        <polyline points="4.9 5.68434189e-14 -1.81188398e-13 33.6 4.9 67.2 -1.81188398e-13 107.8 4.9 151.2 -1.81188398e-13 207.2 4.9 267.4"></polyline>
+                        <polyline points="11.9 5.68434189e-14 7 33.6 11.9 67.2 7 107.8 11.9 151.2 7 207.2 11.9 267.4"></polyline>
+                        <polyline points="18.9 5.68434189e-14 14 33.6 18.9 67.2 14 107.8 18.9 151.2 14 207.2 18.9 267.4"></polyline>
+                        <polyline points="25.9 5.68434189e-14 21 33.6 25.9 67.2 21 107.8 25.9 151.2 21 207.2 25.9 267.4"></polyline>
+                        <polyline points="32.9 5.68434189e-14 28 33.6 32.9 67.2 28 107.8 32.9 151.2 28 207.2 32.9 267.4"></polyline>
+                        <polyline points="4.9 267.4 -1.81188398e-13 301 4.9 334.6 -1.81188398e-13 375.2 4.9 418.6 -1.81188398e-13 474.6 4.9 534.8"></polyline>
+                        <polyline points="11.9 267.4 7 301 11.9 334.6 7 375.2 11.9 418.6 7 474.6 11.9 534.8"></polyline>
+                        <polyline points="18.9 267.4 14 301 18.9 334.6 14 375.2 18.9 418.6 14 474.6 18.9 534.8"></polyline>
+                        <polyline points="25.9 267.4 21 301 25.9 334.6 21 375.2 25.9 418.6 21 474.6 25.9 534.8"></polyline>
+                        <polyline points="32.9 267.4 28 301 32.9 334.6 28 375.2 32.9 418.6 28 474.6 32.9 534.8"></polyline>
+                    </g>
+                </g>
+                <g id="Group-5" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8">
+                    <g transform="translate(174.800000, -180.600000)" id="Line">
+                        <polyline points="4.9 5.68434189e-14 -1.81188398e-13 33.6 4.9 67.2 -1.81188398e-13 107.8 4.9 151.2 -1.81188398e-13 207.2 4.9 267.4"></polyline>
+                        <polyline points="11.9 5.68434189e-14 7 33.6 11.9 67.2 7 107.8 11.9 151.2 7 207.2 11.9 267.4"></polyline>
+                        <polyline points="18.9 5.68434189e-14 14 33.6 18.9 67.2 14 107.8 18.9 151.2 14 207.2 18.9 267.4"></polyline>
+                        <polyline points="25.9 5.68434189e-14 21 33.6 25.9 67.2 21 107.8 25.9 151.2 21 207.2 25.9 267.4"></polyline>
+                        <polyline points="32.9 5.68434189e-14 28 33.6 32.9 67.2 28 107.8 32.9 151.2 28 207.2 32.9 267.4"></polyline>
+                        <polyline points="4.9 267.4 -1.81188398e-13 301 4.9 334.6 -1.81188398e-13 375.2 4.9 418.6 -1.81188398e-13 474.6 4.9 534.8"></polyline>
+                        <polyline points="11.9 267.4 7 301 11.9 334.6 7 375.2 11.9 418.6 7 474.6 11.9 534.8"></polyline>
+                        <polyline points="18.9 267.4 14 301 18.9 334.6 14 375.2 18.9 418.6 14 474.6 18.9 534.8"></polyline>
+                        <polyline points="25.9 267.4 21 301 25.9 334.6 21 375.2 25.9 418.6 21 474.6 25.9 534.8"></polyline>
+                        <polyline points="32.9 267.4 28 301 32.9 334.6 28 375.2 32.9 418.6 28 474.6 32.9 534.8"></polyline>
+                    </g>
+                </g>
+                <g id="Group-6" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8">
+                    <g transform="translate(209.800000, -180.600000)" id="Line">
+                        <polyline points="4.9 5.68434189e-14 -1.81188398e-13 33.6 4.9 67.2 -1.81188398e-13 107.8 4.9 151.2 -1.81188398e-13 207.2 4.9 267.4"></polyline>
+                        <polyline points="11.9 5.68434189e-14 7 33.6 11.9 67.2 7 107.8 11.9 151.2 7 207.2 11.9 267.4"></polyline>
+                        <polyline points="18.9 5.68434189e-14 14 33.6 18.9 67.2 14 107.8 18.9 151.2 14 207.2 18.9 267.4"></polyline>
+                        <polyline points="25.9 5.68434189e-14 21 33.6 25.9 67.2 21 107.8 25.9 151.2 21 207.2 25.9 267.4"></polyline>
+                        <polyline points="32.3 5.68434189e-14 27.4 33.6 32.3 67.2 27.4 107.8 32.3 151.2 27.4 207.2 32.3 267.4"></polyline>
+                        <polyline points="4.9 267.4 -1.81188398e-13 301 4.9 334.6 -1.81188398e-13 375.2 4.9 418.6 -1.81188398e-13 474.6 4.9 534.8"></polyline>
+                        <polyline points="11.9 267.4 7 301 11.9 334.6 7 375.2 11.9 418.6 7 474.6 11.9 534.8"></polyline>
+                        <polyline points="18.9 267.4 14 301 18.9 334.6 14 375.2 18.9 418.6 14 474.6 18.9 534.8"></polyline>
+                        <polyline points="25.9 267.4 21 301 25.9 334.6 21 375.2 25.9 418.6 21 474.6 25.9 534.8"></polyline>
+                        <polyline points="32.3 267.4 27.4 301 32.3 334.6 27.4 375.2 32.3 418.6 27.4 474.6 32.3 534.8"></polyline>
+                    </g>
+                </g>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="249.1 -180.6 244.2 -147 249.1 -113.4 244.2 -72.8 249.1 -29.4 244.2 26.6 249.1 86.8"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="255.5 -180.6 250.6 -147 255.5 -113.4 250.6 -72.8 255.5 -29.4 250.6 26.6 255.5 86.8"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="262.5 -180.6 257.6 -147 262.5 -113.4 257.6 -72.8 262.5 -29.4 257.6 26.6 262.5 86.8"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="269.5 -180.6 264.6 -147 269.5 -113.4 264.6 -72.8 269.5 -29.4 264.6 26.6 269.5 86.8"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="276.5 -180.6 271.6 -147 276.5 -113.4 271.6 -72.8 276.5 -29.4 271.6 26.6 276.5 86.8"></polyline>
+                <g id="Group-7" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8">
+                    <g transform="translate(278.600000, -180.600000)" id="Line">
+                        <polyline points="4.9 0 -1.81188398e-13 33.6 4.9 67.2 -1.81188398e-13 107.8 4.9 151.2 -1.81188398e-13 207.2 4.9 267.4"></polyline>
+                        <polyline points="11.9 0 7 33.6 11.9 67.2 7 107.8 11.9 151.2 7 207.2 11.9 267.4"></polyline>
+                        <polyline points="4.9 267.4 -1.81188398e-13 301 4.9 334.6 -1.81188398e-13 375.2 4.9 418.6 -1.81188398e-13 474.6 4.9 534.8"></polyline>
+                        <polyline points="11.9 267.4 7 301 11.9 334.6 7 375.2 11.9 418.6 7 474.6 11.9 534.8"></polyline>
+                        <polyline points="18.2 267.4 13.3 301 18.2 334.6 13.3 375.2 18.2 418.6 13.3 474.6 18.2 534.8"></polyline>
+                        <polyline points="25.2 267.4 20.3 301 25.2 334.6 20.3 375.2 25.2 418.6 20.3 474.6 25.2 534.8"></polyline>
+                        <polyline points="31.2 267.4 26.3 301 31.2 334.6 26.3 375.2 31.2 418.6 26.3 474.6 31.2 534.8"></polyline>
+                    </g>
+                </g>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="297.5 -180.6 292.6 -147 297.5 -113.4 292.6 -72.8 297.5 -29.4 292.6 26.6 297.5 86.8"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="5.6 86.8 0.7 120.4 5.6 154 0.7 194.6 5.6 238 0.7 294 5.6 354.2"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="12.6 86.8 7.7 120.4 12.6 154 7.7 194.6 12.6 238 7.7 294 12.6 354.2"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="19.6 86.8 14.7 120.4 19.6 154 14.7 194.6 19.6 238 14.7 294 19.6 354.2"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="26.6 86.8 21.7 120.4 26.6 154 21.7 194.6 26.6 238 21.7 294 26.6 354.2"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="249.1 86.8 244.2 120.4 249.1 154 244.2 194.6 249.1 238 244.2 294 249.1 354.2"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="255.5 86.8 250.6 120.4 255.5 154 250.6 194.6 255.5 238 250.6 294 255.5 354.2"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="262.5 86.8 257.6 120.4 262.5 154 257.6 194.6 262.5 238 257.6 294 262.5 354.2"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="269.5 86.8 264.6 120.4 269.5 154 264.6 194.6 269.5 238 264.6 294 269.5 354.2"></polyline>
+                <polyline id="Line" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="276.5 86.8 271.6 120.4 276.5 154 271.6 194.6 276.5 238 271.6 294 276.5 354.2"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
