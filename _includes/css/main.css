@@ -19,14 +19,14 @@ p.small {
     font-size: 16px;
 }
 
-a,
+/*a,
 a:hover,
 a:focus,
 a:active,
 a.active {
     outline: 0;
     color: #{{ site.color.primary }};
-}
+}*/
 
 a.sounds:link {color: #{{ site.color.sounds }};}
 a.sounds:hover {color: #{{ site.color.primary }};}
