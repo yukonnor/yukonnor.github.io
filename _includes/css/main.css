@@ -5,10 +5,11 @@
  */
 
 body {
-    background-image: url('img/header_moire.png');
+    background-image: url('img/header_moire.svg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
+    background-size: cover;
     background-color: #0dd2e8; 
 }
 
