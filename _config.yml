@@ -27,8 +27,8 @@ disqus_shortname: myshortname
 color:
   primary: FFFFFF # white #orignal teal: 18bc9c 
   primary-rgb: "255,255,255" 
-  secondary: 000000 # Nav bar / Content Section Bacgound. Previously 2c3e50 (dark slate grey)
-  secondary-dark: 233140 #A2122F
+  secondary: 383636 # Nav bar / Content Section Bacgound. Previously 2c3e50 (dark slate grey)
+  secondary-dark: 000000 #A2122F
   text-primary: 000000 # black
   text-secondary: 595454 # dark grey
   sounds: FF0000 # red
