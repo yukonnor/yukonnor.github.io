@@ -93,7 +93,6 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #{{ site.color.text-primary }};
-    background: #{{ site.color.primary }};
 }
 
 /*mobile*/
@@ -200,6 +199,7 @@ header .intro-text .skills {
 .navbar {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 200;
+    background-color: #{{ site.color.primary-dark }} !important;
 }
 
 .navbar a:focus {
@@ -389,7 +389,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-    color: #fff;
+    background-color: #fff;
 }
 
 footer h3 {
