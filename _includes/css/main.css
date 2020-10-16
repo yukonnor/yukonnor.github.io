@@ -199,7 +199,7 @@ header .intro-text .skills {
 .navbar {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 200;
-    background-color: #{{ site.color.secondary-dark }} !important;
+    background-color: #000000 !important;
 }
 
 .navbar a:focus {
@@ -217,7 +217,7 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #000000;
 }
 
 section {
