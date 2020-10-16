@@ -230,13 +230,9 @@ section h2 {
     font-size: 3em;
 }
 
-section.spacing-white {
+section.spacing {
     color: #{{ site.color.text-primary }};
-    background: #{{ site.color.primary }};
-}
-
-section.spacing-bg {
-    color: #{{ site.color.text-primary }};
+    background: beige;
 }
 
 section.success {
