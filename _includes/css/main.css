@@ -240,6 +240,11 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+bottom-o-page {
+    padding: 100px 0;
+}
+
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
