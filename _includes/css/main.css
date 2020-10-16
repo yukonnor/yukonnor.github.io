@@ -199,7 +199,7 @@ header .intro-text .skills {
 .navbar {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 200;
-    background-color: #{{ site.color.primary-dark }} !important;
+    background-color: #{{ site.color.secondary-dark }} !important;
 }
 
 .navbar a:focus {
