@@ -240,7 +240,7 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
-bottom-o-page {
+.bottom-o-page {
     padding: 100px 0;
 }
 
