@@ -5,10 +5,11 @@
  */
 
 body {
-    overflow-x: hidden;
-    background-color: #0dd2e8; 
+    background-image: url('img/header_moire.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: center; 
-    background-repeat: repeat-y;
+    background-color: #0dd2e8; 
 }
 
 p {
