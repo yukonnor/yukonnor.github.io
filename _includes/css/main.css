@@ -134,9 +134,6 @@ img.img-on-top {
     z-index: 20;
 }
 
-#happy {
-    cursor: url("/img/header_moire.png"), auto;
-}
 
 header .container .name {
     display: block;
