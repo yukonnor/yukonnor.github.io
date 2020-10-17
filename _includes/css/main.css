@@ -131,10 +131,12 @@ img.img-on-top {
 }
 
 #layer2 {
-z-index: 20;
+    z-index: 20;
 }
 
-
+#happy {
+    cursor: url("/img/header_moire.png"), auto;
+}
 
 header .container .name {
     display: block;
