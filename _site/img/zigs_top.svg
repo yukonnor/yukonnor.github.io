@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="440px" height="440px" viewBox="0 0 440 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Pattern 1_Wider_Rotated</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="220" cy="220" r="220"></circle>
+    </defs>
+    <g id="Pattern-1_Wider_Rotated" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Big-Square" transform="translate(220.000000, 220.000000) rotate(20.000000) translate(-220.000000, -220.000000) ">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Oval"></g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(-181.000000, -258.000000)" id="Line">
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(-141.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="29 0 22 48 29 96 22 154 29 216 22 296 29 382"></polyline>
+                    <polyline points="39 0 32 48 39 96 32 154 39 216 32 296 39 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(-99.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(-59.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(-19.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(21.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="29 0 22 48 29 96 22 154 29 216 22 296 29 382"></polyline>
+                    <polyline points="39 0 32 48 39 96 32 154 39 216 32 296 39 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(63.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(103.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(143.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(183.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(223.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(263.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(303.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(343.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="28 0 21 48 28 96 21 154 28 216 21 296 28 382"></polyline>
+                    <polyline points="38 0 31 48 38 96 31 154 38 216 31 296 38 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(385.000000, -258.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(-59.000000, 124.000000)" id="Line">
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(-19.000000, 124.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(21.000000, 124.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="29 0 22 48 29 96 22 154 29 216 22 296 29 382"></polyline>
+                    <polyline points="39 0 32 48 39 96 32 154 39 216 32 296 39 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(63.000000, 124.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(103.000000, 124.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(143.000000, 124.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(183.000000, 124.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(223.000000, 124.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(263.000000, 124.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(303.000000, 124.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(343.000000, 124.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="28 0 21 48 28 96 21 154 28 216 21 296 28 382"></polyline>
+                    <polyline points="38 0 31 48 38 96 31 154 38 216 31 296 38 382"></polyline>
+                </g>
+            </g>
+            <g id="Line-Group-2" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g transform="translate(385.000000, 124.000000)" id="Line">
+                    <polyline points="7 0 0 48 7 96 0 154 7 216 0 296 7 382"></polyline>
+                    <polyline points="17 0 10 48 17 96 10 154 17 216 10 296 17 382"></polyline>
+                    <polyline points="27 0 20 48 27 96 20 154 27 216 20 296 27 382"></polyline>
+                    <polyline points="37 0 30 48 37 96 30 154 37 216 30 296 37 382"></polyline>
+                    <polyline points="46 0 39 48 46 96 39 154 46 216 39 296 46 382"></polyline>
+                    <polyline points="55 0 48 48 55 96 48 154 55 216 48 296 55 382"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
