@@ -5068,6 +5068,11 @@ table-bordered>thead>tr>th,.table-bordered>thead>tr>th,table-bordered>tbody>tr>t
   --visuals-color: #00D380; /* mint green */
 }
 
+/* make site scroll on mobile */
+overflow: scroll;
+-webkit-overflow-scrolling: touch;
+
+
 body {
     background-image: url('img/header_moire.svg');
     background-repeat: no-repeat;
@@ -5100,11 +5105,17 @@ a.sounds {
 }
 
 a.sounds:hover {
-      color: var(--visuals-color);
+    color: var(--visuals-color);
 }
 
-a.visuals:link {var(--visuals-color);}
-a.visuals:hover {var(--sounds-color);}
+a.visuals:link {
+    color: var(--visuals-color);
+    font-family: "Grenze Gotisch", serif;
+}
+
+a.visuals:hover {
+    color: var(--sounds-color);
+}
 
 h1,
 h2,
@@ -5114,28 +5125,6 @@ h5,
 h6 {
     font-family: "Grenze Gotisch", serif;
     font-weight: 200;
-}
-
-hr.star-light,
-hr.star-primary {
-    margin: 25px auto 30px;
-    padding: 0;
-    max-width: 250px;
-    border: 0;
-    border-top: solid 5px;
-    text-align: center;
-    overflow: visible;
-}
-
-hr.star-light:after,
-hr.star-primary:after {
-    content: "\f005";
-    display: inline-block;
-    position: relative;
-    top: -.8em;
-    padding: 0 .25em;
-    font-family: FontAwesome;
-    font-size: 2em;
 }
 
 .img-centered {
@@ -5436,11 +5425,11 @@ section.success {
 }
 
 .text-sounds {
-    color: #FF0000;
+    color: var(--sounds-color);
 }
 
 .text-visuals {
-    color: #00D380;
+    color: var(--visuals-color);
 }
 
 form .row:first-child .floating-label-form-group {
