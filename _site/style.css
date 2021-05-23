@@ -2927,7 +2927,8 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 }
 .navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{
     color: #000000;
-    background-color:#1a242f
+    border-color: black;
+    border-style: dotted;
 }
 .navbar-default .navbar-nav>.disabled>a,.navbar-default .navbar-nav>.disabled>a:hover,.navbar-default .navbar-nav>.disabled>a:focus{
     color:#cccccc;
@@ -5232,7 +5233,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
-        font-size: 1rem;
+        /*font-size: 1rem;*/
     }
 }
 
@@ -5557,7 +5558,8 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #0 !important;
+    border-color: black;
+    border-style: dotted;
 }
 
 /* Fix modal mouse wheel issues */

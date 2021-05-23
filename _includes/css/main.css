@@ -503,7 +503,8 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
+    border-color: black;
+    border-style: dotted;
 }
 
 /* Fix modal mouse wheel issues */
