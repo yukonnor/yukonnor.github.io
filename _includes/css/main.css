@@ -176,10 +176,6 @@ header .intro-text .skills {
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
     }
-
-    .navbar-fixed-top.navbar-shrink .navbar-brand {
-        font-size: 1rem;
-    }
 }
 
 .navbar {
