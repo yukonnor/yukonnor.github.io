@@ -5139,8 +5139,9 @@ header {
 
 /*mobile*/
 header .container {
-    padding-top: 150px;
-    padding-bottom: 90px;
+    background-color: var(--bg-color);
+    padding-top: 80px;
+    padding-bottom: 350px;
     transform-origin: center center;
 }
 
@@ -5178,6 +5179,7 @@ img.img-on-top {
 
 
 header .container .name {
+    background-color: var(--bg-color);
     display: block;
     font-family: "Grenze Gotisch", serif;
     font-size: 2em;
@@ -5198,8 +5200,9 @@ header .intro-text .skills {
 /*web*/
 @media(min-width:768px) {
     header .container {
-        padding-top: 210px;
-        padding-bottom: 130px;
+        background-color: var(--bg-color);
+        padding-top: 110px;
+        padding-bottom: 330px;
     }
 
     header .container .name {
