@@ -1945,19 +1945,25 @@ textarea.input-lg,select[multiple].input-lg{
     padding:18px 27px;
     font-size:19px;
     line-height:1.33;
-    border-radius:6px
+    border-radius:6px;
+    font-family: var(--font-family);
+    background-color: var(--visuals-color);
 }
 .btn-sm,.btn-group-sm>.btn{
     padding:6px 9px;
     font-size:13px;
     line-height:1.5;
-    border-radius:3px
+    border-radius:3px;
+    font-family: var(--font-family);
+    background-color: var(--visuals-color);
 }
 .btn-xs,.btn-group-xs>.btn{
     padding:1px 5px;
     font-size:13px;
     line-height:1.5;
-    border-radius:3px
+    border-radius:3px;
+    font-family: var(--font-family);
+    background-color: var(--visuals-color);
 }
 .btn-block{
     display:block;
@@ -5067,6 +5073,7 @@ table-bordered>thead>tr>th,.table-bordered>thead>tr>th,table-bordered>tbody>tr>t
   --text-secondary: 595454;
   --sounds-color: #FF0000; /*red*/
   --visuals-color: #00D380; /* mint green */
+  --font-family: "Grenze Gotisch", serif;
 }
 
 /* make site scroll on mobile */
@@ -5102,7 +5109,7 @@ a.active {
 
 a.sounds {
     color: var(--sounds-color);
-    font-family: "Grenze Gotisch", serif;
+    font-family: var(--font-family);
 }
 
 a.sounds:hover {
@@ -5111,7 +5118,7 @@ a.sounds:hover {
 
 a.visuals:link {
     color: var(--visuals-color);
-    font-family: "Grenze Gotisch", serif;
+    font-family: var(--font-family);
 }
 
 a.visuals:hover {
@@ -5124,7 +5131,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Grenze Gotisch", serif;
+    font-family: var(--font-family);
     font-weight: 200;
 }
 
@@ -5181,7 +5188,7 @@ img.img-on-top {
 header .container .name {
     background-color: var(--bg-color);
     display: block;
-    font-family: "Grenze Gotisch", serif;
+    font-family: var(--font-family);
     font-size: 2em;
     font-weight: 200;
     position: absolute;
@@ -5237,7 +5244,7 @@ header .intro-text .skills {
 }
 
 .navbar {
-    font-family: "Grenze Gotisch", serif;
+    font-family: var(--font-family);
     font-weight: 200;
     background-color: var(--bg-color);
     color: #000000;
@@ -5391,6 +5398,7 @@ section.success {
     background: 0 0;
     box-shadow: none!important;
     resize: none;
+    font-family: var(--font-family);
 }
 
 .floating-label-form-group label {
@@ -5554,6 +5562,11 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.navbar-nav>:hover {
+    border-color: blue;
+    border-style: dotted;
 }
 
 .navbar-nav>.active>a {

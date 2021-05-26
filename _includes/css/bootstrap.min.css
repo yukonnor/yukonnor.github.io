@@ -1945,19 +1945,25 @@ textarea.input-lg,select[multiple].input-lg{
     padding:18px 27px;
     font-size:19px;
     line-height:1.33;
-    border-radius:6px
+    border-radius:6px;
+    font-family: var(--font-family);
+    background-color: var(--visuals-color);
 }
 .btn-sm,.btn-group-sm>.btn{
     padding:6px 9px;
     font-size:13px;
     line-height:1.5;
-    border-radius:3px
+    border-radius:3px;
+    font-family: var(--font-family);
+    background-color: var(--visuals-color);
 }
 .btn-xs,.btn-group-xs>.btn{
     padding:1px 5px;
     font-size:13px;
     line-height:1.5;
-    border-radius:3px
+    border-radius:3px;
+    font-family: var(--font-family);
+    background-color: var(--visuals-color);
 }
 .btn-block{
     display:block;

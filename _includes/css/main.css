@@ -12,6 +12,7 @@
   --text-secondary: 595454;
   --sounds-color: #FF0000; /*red*/
   --visuals-color: #00D380; /* mint green */
+  --font-family: "Grenze Gotisch", serif;
 }
 
 /* make site scroll on mobile */
@@ -47,7 +48,7 @@ a.active {
 
 a.sounds {
     color: var(--sounds-color);
-    font-family: "Grenze Gotisch", serif;
+    font-family: var(--font-family);
 }
 
 a.sounds:hover {
@@ -56,7 +57,7 @@ a.sounds:hover {
 
 a.visuals:link {
     color: var(--visuals-color);
-    font-family: "Grenze Gotisch", serif;
+    font-family: var(--font-family);
 }
 
 a.visuals:hover {
@@ -69,7 +70,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Grenze Gotisch", serif;
+    font-family: var(--font-family);
     font-weight: 200;
 }
 
@@ -126,7 +127,7 @@ img.img-on-top {
 header .container .name {
     background-color: var(--bg-color);
     display: block;
-    font-family: "Grenze Gotisch", serif;
+    font-family: var(--font-family);
     font-size: 2em;
     font-weight: 200;
     position: absolute;
@@ -182,7 +183,7 @@ header .intro-text .skills {
 }
 
 .navbar {
-    font-family: "Grenze Gotisch", serif;
+    font-family: var(--font-family);
     font-weight: 200;
     background-color: var(--bg-color);
     color: #000000;
@@ -336,6 +337,7 @@ section.success {
     background: 0 0;
     box-shadow: none!important;
     resize: none;
+    font-family: var(--font-family);
 }
 
 .floating-label-form-group label {
@@ -499,6 +501,11 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.navbar-nav>:hover {
+    border-color: blue;
+    border-style: dotted;
 }
 
 .navbar-nav>.active>a {
