@@ -18,11 +18,6 @@
   --font-family: "Grenze Gotisch", serif;
 }
 
-/* make site scroll on mobile */
-overflow: scroll;
--webkit-overflow-scrolling: touch;
-
-
 body {
     background-image: url('img/header_moire.svg');
     background-repeat: no-repeat;
@@ -30,6 +25,9 @@ body {
     background-position: center;
     background-size: cover;
     background-color: var(--bg-color);
+    /* make site scroll on mobile */
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
 }
 
 p {
