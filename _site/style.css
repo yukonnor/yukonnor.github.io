@@ -5087,6 +5087,7 @@ body {
     /* make site scroll on mobile */
     overflow: scroll;
     -webkit-overflow-scrolling: touch;
+    height:100%;
 }
 
 p {
