@@ -5714,10 +5714,10 @@ div.panel.show {
 }
 
 /* IMAGE GALLERY */
-/* The grid: Four equal columns that floats next to each other */
+/* The grid: Five equal columns that floats next to each other */
 .gallery-column {
   float: left;
-  width: 20%;
+  width: 20%;   /* 20% width to support 5 columns */
   padding: 10px;
 }
 
@@ -5725,6 +5725,9 @@ div.panel.show {
 .gallery-column img {
   opacity: 0.8;
   cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;x
 }
 
 .gallery-column img:hover {
@@ -5742,23 +5745,4 @@ div.panel.show {
 .gallery-container {
   position: relative;
   display: none;
-}
-
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-
-/* Closable button inside the expanded image */
-.gallery-closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: black;
-  font-size: 35px;
-  cursor: pointer;
 }

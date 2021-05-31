@@ -78,34 +78,61 @@
 
     <section class="sounds">
       <div class="container">
+
         <div class="row">
 
-          <!-- The four columns -->
+          <!-- The five columns -->
           <div class="gallery-row">
             <div class="gallery-column">
-              <img src="/images/green-circle-crossfade.gif"alt="Nature" style="width:100%" onclick="myFunction(this);">
+              <img src="/images/slide_projector_1_cropped.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
             </div>
             <div class="gallery-column">
               <img src="/images/green-circle-crossfade.gif" alt="Snow" style="width:100%" onclick="myFunction(this);">
             </div>
             <div class="gallery-column">
-              <img src="/images/green-circle-crossfade.gif" alt="Mountains" style="width:100%" onclick="myFunction(this);">
+              <img src="/images/slide_projector_2_cropped.jpg" alt="Mountains" style="width:100%" onclick="myFunction(this);">
             </div>
             <div class="gallery-column">
               <img src="/images/green-circle-crossfade.gif" alt="Lights" style="width:100%" onclick="myFunction(this);">
             </div>
              <div class="gallery-column">
-              <img src="/images/green-circle-crossfade.gif" alt="Lights" style="width:100%" onclick="myFunction(this);">
+              <img src="/images/slide_projector_3_cropped.jpg" alt="Lights" style="width:100%" onclick="myFunction(this);">
             </div>
           </div>
-
-          <div class="gallery-container">
-            <span onclick="this.parentElement.style.display='none'" class="gallery-closebtn">&times;</span>
-            <img id="expandedImg" style="width:100%">
-            <div id="imgtext"></div>
+          <!-- The large image -->
+          <div class="gallery-container" style="display: block;">
+            <img id="expandedImg" src="/images/slide_projector_1_cropped.jpg" style="width:100%">
           </div>
 
         </div>
+
+        <div class="row">
+
+          <!-- The five columns -->
+          <div class="gallery-row">
+            <div class="gallery-column">
+              <img src="/images/slide_projector_1_cropped.jpg" alt="Nature" style="width:100%" onclick="myFunction_1(this);">
+            </div>
+            <div class="gallery-column">
+              <img src="/images/green-circle-crossfade.gif" alt="Snow" style="width:100%" onclick="myFunction_1(this);">
+            </div>
+            <div class="gallery-column">
+              <img src="/images/slide_projector_2_cropped.jpg" alt="Mountains" style="width:100%" onclick="myFunction_1(this);">
+            </div>
+            <div class="gallery-column">
+              <img src="/images/green-circle-crossfade.gif" alt="Lights" style="width:100%" onclick="myFunction_1(this);">
+            </div>
+             <div class="gallery-column">
+              <img src="/images/slide_projector_3_cropped.jpg" alt="Lights" style="width:100%" onclick="myFunction_1(this);">
+            </div>
+          </div>
+          <!-- The large image -->
+          <div class="gallery-container" style="display: block;">
+            <img id="expandedImg_1" src="/images/slide_projector_1_cropped.jpg" style="width:100%">
+          </div>
+
+        </div>
+
       </div>
      </section>
 
@@ -151,9 +178,13 @@
     <script>
     function myFunction(imgs) {
       var expandImg = document.getElementById("expandedImg");
-      var imgText = document.getElementById("imgtext");
       expandImg.src = imgs.src;
-      imgText.innerHTML = imgs.alt;
+      expandImg.parentElement.style.display = "block";
+    }
+    // script for second gallery
+    function myFunction_1(imgs) {
+      var expandImg = document.getElementById("expandedImg_1");
+      expandImg.src = imgs.src;
       expandImg.parentElement.style.display = "block";
     }
     </script>
