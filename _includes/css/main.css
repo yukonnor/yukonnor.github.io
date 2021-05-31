@@ -666,7 +666,8 @@ div.panel.show {
   cursor: pointer;
   position: relative;
   overflow: hidden;
-  border-radius: 50%;x
+  border-radius: 50%;
+  filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0, 0, 0, 0.5));
 }
 
 .gallery-column img:hover {
@@ -684,4 +685,7 @@ div.panel.show {
 .gallery-container {
   position: relative;
   display: none;
+  filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0, 0, 0, 0.5));
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
