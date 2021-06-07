@@ -547,6 +547,7 @@ table {
 
 th, td {
   border: 1px solid;
+  background-color: #fdfdfd;
   padding: 20px;
   box-shadow: 5px 10px;
 }
@@ -614,15 +615,16 @@ div.panel.show {
 .tab button {
   background-color: inherit;
   float: left;
-  margin-right: 5px;
+  width: 13%;  /* depends on how many images you want to show: 100/# of tabs - 1 (for margin) */
+  margin-right: 4px;
+  max-height: 70px;
   border: 3px solid black;
   outline: none;
   cursor: pointer;
   padding: 14px 16px;
   font-size: 17px;
   font-family: var(--font-family);
-  background-color:#ffffff;
-  /*border-bottom-color:transparent;*/
+  background-color: #ffffff;
   cursor:default
 }
 
@@ -639,18 +641,29 @@ div.panel.show {
   color: var(--visuals-color);
   background-color: black;
   border-bottom: 6px solid black;
+  font-weight: bold;
+  font-size: 23px;
+  padding: 10px 16px;
 }
 
 /* Style the tab content */
 .tabcontent {
   color: var(--visuals-color);
   display: none;
-  padding: 6px 12px;
+  padding: 10px 60px 40px; /* Two values: Top & Bottom px, Left & Right px  Three values: Top px, Left & Right px, Bottom px */
   background-color: black;
   border: 3px solid black;
-  padding-bottom: 100px;
   /*border: 3px dotted black;*/
 }
+
+/*mobile*/
+@media(max-width:560px) { /* If screen smaller than 480px */
+  .tabcontent {
+    padding: 10px 10px 30px; /* Two values: Top & Bottom px, Left & Right px  Three values: Top px, Left & Right px, Bottom px */
+  }
+}
+
+
 
 /* IMAGE GALLERY */
 /* The grid: Five equal columns that floats next to each other */

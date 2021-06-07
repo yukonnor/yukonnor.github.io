@@ -7,77 +7,76 @@
       <div class="container">
 
         <div class="row">
-
-          <!-- The five columns -->
-          <div class="gallery-row">
-            <div class="gallery-column">
-              <img src="/images/slide_projector_1_cropped.JPG" alt="Nature" style="width:100%" onclick="myFunction(this);">
-            </div>
-            <div class="gallery-column">
-              <img src="/images/green-circle-crossfade.gif" alt="Snow" style="width:100%" onclick="myFunction(this);">
-            </div>
-            <div class="gallery-column">
-              <img src="/images/slide_projector_2_cropped.JPG" alt="Mountains" style="width:100%" onclick="myFunction(this);">
-            </div>
-            <div class="gallery-column">
-              <img src="/images/green-circle-crossfade.gif" alt="Lights" style="width:100%" onclick="myFunction(this);">
-            </div>
-             <div class="gallery-column">
-              <img src="/images/slide_projector_3_cropped.JPG" alt="Lights" style="width:100%" onclick="myFunction(this);">
-            </div>
-          </div>
-          <!-- The large image -->
-          <div class="gallery-container" style="display: block;">
-            <img id="expandedImg" src="/images/slide_projector_1_cropped.JPG" style="width:100%">
+          <h1>Images</h1>
+          <p>Click on the buttons inside the tabbed menu:</p>
+          <div class="tab">
+            <button class="tablinks active"  onclick="openTab(event, 'Image 1')">1</button>
+            <button class="tablinks" onclick="openTab(event, 'Image 2')">2</button>
+            <button class="tablinks" onclick="openTab(event, 'Image 3')">3</button>
+            <button class="tablinks" onclick="openTab(event, 'Image 4')">4</button>
+            <button class="tablinks" onclick="openTab(event, 'Image 5')">5</button>
+            <button class="tablinks" onclick="openTab(event, 'Image 6')">6</button>
+            <button class="tablinks" onclick="openTab(event, 'Image 7')">7</button>
           </div>
 
-        </div>
-
-        <div class="row">
-
-          <!-- The five columns -->
-          <div class="gallery-row">
-            <div class="gallery-column">
-              <img src="/images/slide_projector_1_cropped.JPG" alt="Nature" style="width:100%" onclick="myFunction_1(this);">
-            </div>
-            <div class="gallery-column">
-              <img src="/images/slide_projector_4.jpg" alt="Snow" style="width:100%" onclick="myFunction_1(this);">
-            </div>
-            <div class="gallery-column">
-              <img src="/images/slide_projector_2_cropped.JPG" alt="Mountains" style="width:100%" onclick="myFunction_1(this);">
-            </div>
-            <div class="gallery-column">
-              <img src="/images/slide_projector_5.jpg" alt="Lights" style="width:100%" onclick="myFunction_1(this);">
-            </div>
-             <div class="gallery-column">
-              <img src="/images/slide_projector_3_cropped.JPG" alt="Lights" style="width:100%" onclick="myFunction_1(this);">
-            </div>
+          <div id="Image 1" class="tabcontent" style="display:block">
+            <p>London is the capital city of England. This is image 1.</p>
+            <img src="/images/slide_projector_1_cropped.JPG" alt="Nature" style="width:100%">
           </div>
-          <!-- The large image -->
-          <div class="gallery-container" style="display: block;">
-            <img id="expandedImg_1" src="/images/slide_projector_1_cropped.JPG" style="width:100%">
+
+          <div id="Image 2" class="tabcontent">
+            <p>Paris is the capital of France. This is image 2.</p>
+            <img src="/images/green-circle-crossfade.gif" alt="Snow" style="width:100%">
+          </div>
+
+          <div id="Image 3" class="tabcontent">
+            <p>London is the capital city of England. This is image 3.</p>
+            <img src="/images/slide_projector_2_cropped.JPG" alt="Mountains" style="width:100%">
+          </div>
+
+          <div id="Image 4" class="tabcontent">
+            <p>Paris is the capital of France. This is image 4.</p>
+            <img src="/images/green-circle-crossfade.gif" alt="Lights" style="width:100%">
+          </div>
+
+          <div id="Image 5" class="tabcontent">
+            <p>Tokyo is the capital of Japan. This is image 5.</p>
+            <img src="/images/slide_projector_3_cropped.JPG" alt="Lights" style="width:100%">
+          </div>
+
+          <div id="Image 6" class="tabcontent">
+            <p>Tokyo is the capital of Japan. This is image 6.</p>
+            <img src="/images/slide_projector_3_cropped.JPG" alt="Lights" style="width:100%">
+          </div>
+
+          <div id="Image 7" class="tabcontent">
+            <p>Tokyo is the capital of Japan. This is image 7.</p>
+            <img src="/images/slide_projector_3_cropped.JPG" alt="Lights" style="width:100%">
           </div>
 
         </div>
 
       </div>
+
      </section>
 
     {% include footer.html %}
     {% include js.html %}
 
     <script>
-    function myFunction(imgs) {
-      var expandImg = document.getElementById("expandedImg");
-      expandImg.src = imgs.src;
-      expandImg.parentElement.style.display = "block";
-    }
-    // script for second gallery
-    function myFunction_1(imgs) {
-      var expandImg = document.getElementById("expandedImg_1");
-      expandImg.src = imgs.src;
-      expandImg.parentElement.style.display = "block";
-    }
+      function openTab(evt, imgName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+          tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+          tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(imgName).style.display = "block";
+        evt.currentTarget.className += " active";
+      }
     </script>
 
     </body>
