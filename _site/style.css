@@ -5456,7 +5456,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-    background-color: #fff;
+    /*background-color: #fff;*/
     opacity: 0.85;
 }
 

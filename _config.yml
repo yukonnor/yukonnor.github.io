@@ -36,8 +36,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: FBI MAN
-  location: San Francisco
+  copyright: Connor Schmidt
+  location: Portland, ME
   social: Links
   credits: Credits
 
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 1279 37th Ave
-  - line: San Francisco, CA 94122
+  - line: 123 Fake St
+  - line: Portland, ME 04103
 
 # Credits content
 credits: 'Made using an open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
